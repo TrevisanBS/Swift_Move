@@ -59,7 +59,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 🔔 **Observação:** Backlog será atualizado de acordo com as reuniões de Refinamento.
 
 ---
-## 🗂️ Product Backlog 
+# 🗂️ Product Backlog 
 
 
 ## 📚 EPIC 01: PLANEJAMENTO 
@@ -82,7 +82,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-07  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | In Progress|
 | US-08 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Média       | 8          | In Progress       |
 
-# 📚 EPIC 04: Apresentação Final 
+## 📚 EPIC 04: Apresentação Final 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
 | US-09 |  Como cliente quero visualizar em um dashboard os custos, a produtividade das rotas e as estatísticas de ocupação dos veículos para que eu possa tomar decisões mais estratégicas e otimizar os custos.| Alta     |       9    | In Progress     |
