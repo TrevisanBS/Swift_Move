@@ -81,6 +81,13 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-06 |    Como cliente quero que identifiquem os erros nas planilhas de dados do frete FOB, destacando a fábrica que realizou o pagamento para que eu possa visualizar o prejuízo gerado e tomar medidas corretivas.  | Média     | 7          | In Progress     |
 | US-07  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | In Progress|
 | US-08 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Média       | 8          | In Progress       |
+
+# 📚 EPIC 04: Apresentação Final 
+| ID     | User Story                                                | Prioridade | Story Points | Status     |
+|--------|------------------------------------------------------------|------------|--------------|------------|
+| US-09 |  Como cliente quero visualizar em um dashboard os custos, a produtividade das rotas e as estatísticas de ocupação dos veículos para que eu possa tomar decisões mais estratégicas e otimizar os custos.| Alta     |       9    | In Progress     |
+| US-10  | Como cliente, quero receber um relatório final detalhado sobre o projeto, descrevendo todas as atividades realizadas e resultados  alcançados,  para que fique registrado para futuras consultas em futuros projetos.     | Baixa      | 6         | In Progress|
+
 ---
 
 ## 🏁 Sprints
