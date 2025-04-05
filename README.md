@@ -75,6 +75,12 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-04  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | In Progress|
 | US-05  |  Como cliente, quero que as planilhas de dados sejam relacionadas no Python e transformadas em uma visualização interativa, para que eu possa analisar os dados de maneira mais clara e tomar decisões informadas.   | Alta       | 8          | Done       |
 
+## 📚 EPIC 03: ALINHAMENTO 
+| ID     | User Story                                                | Prioridade | Story Points | Status     |
+|--------|------------------------------------------------------------|------------|--------------|------------|
+| US-06 |    Como cliente quero que identifiquem os erros nas planilhas de dados do frete FOB, destacando a fábrica que realizou o pagamento para que eu possa visualizar o prejuízo gerado e tomar medidas corretivas.  | Média     | 7          | In Progress     |
+| US-07  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | In Progress|
+| US-08 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Média       | 8          | In Progress       |
 ---
 
 ## 🏁 Sprints
