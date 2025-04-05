@@ -66,6 +66,14 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-01  | Como cliente quero acessar o backlog do produto com uma prévia de todas as atividades para que eu tenha visibilidade sobre o planejamento e acompanhe o progresso do desenvolvimento.     | Baixa       | 1        | Done       |
 | US-02  | Como cliente, quero visualizar a estruturação do projeto no GitHub e Jira Software, para que eu possa acompanhar o progresso, das tarefas entender a distribuição de responsabilidades e garantir que o projeto está sendo desenvolvido conforme o planejado.              | Baixa      | 1          | Done     |
 
+## 📚 EPIC 02: DASHBOARD 
+| ID     | User Story                                                | Prioridade | Story Points | Status     |
+|--------|------------------------------------------------------------|------------|--------------|------------|
+| US-03  |  Como cliente, quero visualizar o lead time por rota e destacar quais rotas estão apresentando problemas, para que eu possa identificar e corrigir os pontos críticos, melhorando a eficiência e reduzindo custos.         | Alta      | 9          | In Progress     |
+| US-04  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | In Progress|
+| US-05  |  Como cliente, quero que as planilhas de dados sejam relacionadas no Python e transformadas em uma visualização
+ interativa, para que eu possa analisar os dados de maneira mais clara e tomar decisões informadas.      | Alta       | 8          | Done       |
+
 ---
 
 ## 🏁 Sprints
