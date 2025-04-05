@@ -71,8 +71,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 |--------|------------------------------------------------------------|------------|--------------|------------|
 | US-03  |  Como cliente, quero visualizar o lead time por rota e destacar quais rotas estão apresentando problemas, para que eu possa identificar e corrigir os pontos críticos, melhorando a eficiência e reduzindo custos.         | Alta      | 9          | In Progress     |
 | US-04  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | In Progress|
-| US-05  |  Como cliente, quero que as planilhas de dados sejam relacionadas no Python e transformadas em uma visualização
- interativa, para que eu possa analisar os dados de maneira mais clara e tomar decisões informadas.      | Alta       | 8          | Done       |
+| US-05  |  Como cliente, quero que as planilhas de dados sejam relacionadas no Python e transformadas em uma visualização interativa, para que eu possa analisar os dados de maneira mais clara e tomar decisões informadas.   | Alta       | 8          | Done       |
 
 ---
 
