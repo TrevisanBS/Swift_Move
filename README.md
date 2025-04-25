@@ -98,6 +98,17 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | Sprint 02 | 16/04 - 30/04 | Entregar dashboard com dados reais      | 🔄 Em andamento |
 | Sprint 03 | 01/05 - 15/05 | Integração com relatórios | ⏳ Planejada |
 
+---
+
+## 🚦 Quadro Kanban
+| Status          | Tarefas                                                       |
+|-----------------|---------------------------------------------------------------|
+| **Backlog**     | US-05, US-06                                                  |
+| **To Do**       | US-07                                                         |
+| **In Progress** | US-03                                                         |
+| **Review**      | US-02                                                         |
+| **Done**        | US-01, US-04                                                  |
+
 
 ---
 
