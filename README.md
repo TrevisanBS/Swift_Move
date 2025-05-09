@@ -69,6 +69,9 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-02  | Como cliente, quero visualizar a estruturação do projeto no GitHub e Jira Software, para que eu possa acompanhar o progresso, das tarefas entender a distribuição de responsabilidades e garantir que o projeto está sendo desenvolvido conforme o planejado.              | Baixa      | 1          | Done     |
 | US-03  | Como cliente, quero que as planilhas de dados sejam relacionadas no Python e transformadas em uma visualização interativa, para que eu possa analisar os dados de maneira mais clara e tomar decisões informadas.              | Alta     | 8          | Done     |
 
+![image](https://github.com/user-attachments/assets/29bd4013-b721-421c-8620-fb9e8d7b28eb)
+
+
 ## 📚 EPIC 02: DASHBOARD 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
@@ -76,6 +79,10 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-05  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | Done|
 | US-06  |  Como cliente, quero visualizar a taxa média de ocupação dos veículos segmentada por região,para entender padrões de eficiência em diferentes áreas.  | Alta       | 4          | Done       |
 | US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | In Progress       |
+
+![image](https://github.com/user-attachments/assets/1575f3c5-5778-4728-b2f4-11018c08b13a)
+
+
 ## 📚 EPIC 03: ALINHAMENTO 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
