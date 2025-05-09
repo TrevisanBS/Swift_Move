@@ -72,10 +72,10 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 ## 📚 EPIC 02: DASHBOARD 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
-| US-04  |  Como cliente, quero visualizar o lead time por rota e destacar quais rotas estão apresentando problemas, para que eu possa identificar e corrigir os pontos críticos, melhorando a eficiência e reduzindo custos.         | Alta      | 9          | In Progress     |
-| US-05  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | In Progress|
+| US-04  |  Como cliente, quero visualizar o lead time por rota e destacar quais rotas estão apresentando problemas, para que eu possa identificar e corrigir os pontos críticos, melhorando a eficiência e reduzindo custos.         | Alta      | 9          | Done     |
+| US-05  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | Done|
 | US-06  |  Como cliente, quero visualizar a taxa média de ocupação dos veículos segmentada por região,para entender padrões de eficiência em diferentes áreas.  | Alta       | 4          | Done       |
-| US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | Done       |
+| US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | In Progress       |
 ## 📚 EPIC 03: ALINHAMENTO 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
@@ -117,6 +117,14 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | **Review**      | US-02                                                         |
 | **Done**        | US-01, US-04                                                  |
 
+---
+
+## 📊 KPIs do Projeto
+> Detalhamento em [`docs/KPIs.md`](docs/KPIs.md)
+- **Lead Time** médio: _7 dias_
+- **Throughput**: _12 user stories / sprint_
+- **Burndown Rate**: Atualizado por sprint
+- **Velocidade Média do Time**: _25 story points / sprint_
 
 ---
 
