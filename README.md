@@ -63,7 +63,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 
 
 ## 📚 EPIC 01: PLANEJAMENTO 
-| ID     | User Story                                                | Prioridade | Story Points |    |
+| ID     | User Story                                                | Prioridade | Story Points | Status   |
 |--------|------------------------------------------------------------|------------|--------------|------------|
 | US-01  | Como cliente quero acessar o backlog do produto com uma prévia de todas as atividades para que eu tenha visibilidade sobre o planejamento e acompanhe o progresso do desenvolvimento.     | Baixa       | 1        | Done       |
 | US-02  | Como cliente, quero visualizar a estruturação do projeto no GitHub e Jira Software, para que eu possa acompanhar o progresso, das tarefas entender a distribuição de responsabilidades e garantir que o projeto está sendo desenvolvido conforme o planejado.              | Baixa      | 1          | Done     |
