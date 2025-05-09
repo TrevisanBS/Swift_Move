@@ -101,9 +101,10 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 
 | Sprint | Período       | Objetivos principais                     | Status   |
 |--------|---------------|------------------------------------------|----------|
-| Sprint 01 | 01/04 - 15/04 | Backlog   | ✅ Fechada |
-| Sprint 02 | 16/04 - 30/04 | Entregar dashboard com dados reais      | 🔄 Em andamento |
-| Sprint 03 | 01/05 - 15/05 | Integração com relatórios | ⏳ Planejada |
+| Sprint 01 | 14/03 - 04/04 | Backlog   | ✅ Fechada |
+| Sprint 02 | 05/04 - 09/05 | Entregar dashboard com dados reais      | 🔄 Em andamento |
+| Sprint 03 | 10/05 - 23/05 | Integração com relatórios | ⏳ Planejada |
+| Sprint 04 | 24/05 - 17/06 | Feira de soluções | ⏳ Planejada |
 
 ---
 
