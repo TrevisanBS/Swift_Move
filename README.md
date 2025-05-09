@@ -89,11 +89,11 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 ## 📚 EPIC 04: Apresentação Final 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
-| US-14 |  Como cliente quero visualizar em um dashboard os custos, a produtividade das rotas e as estatísticas de ocupação dos veículos para que eu possa tomar decisões mais estratégicas e otimizar os custos.| Alta     |       9    | In Progress     |
-| US-15  | Como cliente, quero receber um relatório final detalhado sobre o projeto, descrevendo todas as atividades realizadas e resultados  alcançados,  para que fique registrado para futuras consultas em futuros projetos.     | Baixa      | 6         | In Progress|
-| US-16  | Como cliente, quero uma funcionalidade que correlacione o lead time com a taxa de ocupação dos veículos,para entender se há impacto direto entre a capacidade utilizada e o tempo de entrega.     | Alta      | 2         | In Progress|
-| US-17  | Como cliente, eu quero um gráfico que mostre a relação entre o número de entregas por dia e a taxa de devoluções,para identificar possíveis gargalos na operação.      | Baixa      | 2         | In Progress|
-| US-18 | Como cliente, quero comparar o cenário otimizado com o cenário atual, para identificar os ganhos em produtividade,redução de custos e melhoria na eficiência operacional.    | Alta      | 6       | In Progress|
+| US-14 |  Como cliente quero visualizar em um dashboard os custos, a produtividade das rotas e as estatísticas de ocupação dos veículos para que eu possa tomar decisões mais estratégicas e otimizar os custos.| Alta     |       9    | Review   |
+| US-15  | Como cliente, quero receber um relatório final detalhado sobre o projeto, descrevendo todas as atividades realizadas e resultados  alcançados,  para que fique registrado para futuras consultas em futuros projetos.     | Baixa      | 6         | Backlog|
+| US-16  | Como cliente, quero uma funcionalidade que correlacione o lead time com a taxa de ocupação dos veículos,para entender se há impacto direto entre a capacidade utilizada e o tempo de entrega.     | Alta      | 2         | Backlog|
+| US-17  | Como cliente, eu quero um gráfico que mostre a relação entre o número de entregas por dia e a taxa de devoluções,para identificar possíveis gargalos na operação.      | Baixa      | 2         | Backlog|
+| US-18 | Como cliente, quero comparar o cenário otimizado com o cenário atual, para identificar os ganhos em produtividade,redução de custos e melhoria na eficiência operacional.    | Alta      | 6       | Backlog|
 
 ---
 
@@ -111,11 +111,10 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 ## 🚦 Quadro Kanban
 | Status          | Tarefas                                                       |
 |-----------------|---------------------------------------------------------------|
-| **Backlog**     | US-05, US-06                                                  |
-| **To Do**       | US-07                                                         |
-| **In Progress** | US-03                                                         |
-| **Review**      | US-02                                                         |
-| **Done**        | US-01, US-04                                                  |
+| **Backlog**     | US-15, US-16, US-17, US-18                                                  |
+| **In Progress** | US-07, US-08, US-09, US-10, US-11, US-12, US-13                                                         |
+| **Review**      | US-14                                                         |
+| **Done**        | US-01, US-02, US-03, US-04, US-05, US-06                                                  |
 
 ---
 
