@@ -25,7 +25,7 @@ Vizualizar os custos, produtividade sobre rota, estatística da ocupação dos v
 
 ## 📌 Backlog do Produto
 
-> Veja o Backlog completo em [`backlog/product-backlog.md`](https://fatecspgov-my.sharepoint.com/:x:/g/personal/bianca_trevisan_fatec_sp_gov_br/EcfLIaBEJzpDjwsihe2Vuy4BECAVE1wTppnfgVR9Ksvh6w?e=FmTBva)
+> Veja o Backlog completo em [`backlog/product-backlog.md`](https://fatecspgov-my.sharepoint.com/:x:/g/personal/bianca_trevisan_fatec_sp_gov_br/EcfLIaBEJzpDjwsihe2Vuy4BECAVE1wTppnfgVR9Ksvh6w?e=FmTBva)(https://docs.google.com/spreadsheets/d/1Zp0D7Mcwin2XM-GBPMlFCqEPVuW-byyP6KpIxk6B39o/edit?usp=sharing)
 
 ### 🧩 Epics & Features principais:
 - **[EPIC 01]**: PLANEJAMENTO
