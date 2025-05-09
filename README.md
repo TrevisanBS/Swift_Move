@@ -121,9 +121,9 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 ## 📊 KPIs do Projeto
 > Detalhamento em [`docs/KPIs.md`](docs/KPIs.md)
 - **Lead Time** médio: _7 dias_
-- **Throughput**: _12 user stories / sprint_
+- **Throughput**: _04 user stories / sprint_
 - **Burndown Rate**: Atualizado por sprint
-- **Velocidade Média do Time**: _25 story points / sprint_
+
 
 ---
 
