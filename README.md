@@ -109,8 +109,8 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | Sprint | Período       | Objetivos principais                     | Status   |
 |--------|---------------|------------------------------------------|----------|
 | Sprint 01 | 14/03 - 04/04 | Backlog   | ✅ Fechada |
-| Sprint 02 | 05/04 - 09/05 | Entregar dashboard com dados reais      | 🔄 Em andamento |
-| Sprint 03 | 10/05 - 23/05 | Integração com relatórios | ⏳ Planejada |
+| Sprint 02 | 05/04 - 09/05 | Entregar dashboard com dados reais      |✅ Fechada  |
+| Sprint 03 | 10/05 - 23/05 | Integração com relatórios |🔄 Em andamento  |
 | Sprint 04 | 24/05 - 17/06 | Feira de soluções | ⏳ Planejada |
 
 ---
@@ -118,7 +118,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 ## 🚦 Quadro Kanban
 | Status          | Tarefas                                                       |
 |-----------------|---------------------------------------------------------------|
-| **Backlog**     | US-15, US-16, US-17, US-18                                                  |
+| **Backlog**     | US-15, US-16, US-17, US-18                                    |
 | **In Progress** | US-07, US-08, US-09, US-10, US-11, US-12, US-13                                                         |
 | **Review**      | US-14                                                         |
 | **Done**        | US-01, US-02, US-03, US-04, US-05, US-06                                                  |
