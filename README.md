@@ -78,7 +78,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-04  |  Como cliente, quero visualizar o lead time por rota e destacar quais rotas estão apresentando problemas, para que eu possa identificar e corrigir os pontos críticos, melhorando a eficiência e reduzindo custos.         | Alta      | 9          | Done     |
 | US-05  | Como cliente, quero visualizar uma prévia dos dados filtrados que serão utilizados nas próximas sprints, para que eu possa entender melhor o progresso do projeto e garantir que os requisitos estão sendo atendidos antes da execução.      | Alta      | 7            | Done|
 | US-06  |  Como cliente, quero visualizar a taxa média de ocupação dos veículos segmentada por região,para entender padrões de eficiência em diferentes áreas.  | Alta       | 4          | Done       |
-| US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | In Progress       |
+| US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | Done     |
 
 ![image](https://github.com/user-attachments/assets/1575f3c5-5778-4728-b2f4-11018c08b13a)
 
@@ -87,11 +87,11 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
 | US-08 |    Como cliente quero que identifiquem os erros nas planilhas de dados do frete FOB, destacando a fábrica que realizou o pagamento para que eu possa visualizar o prejuízo gerado e tomar medidas corretivas.  | Média     | 7          | In Progress     |
-| US-09  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | In Progress|
-| US-10 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Media       | 8          | In Progress       |
-| US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | In Progress       |
-| US-12 |  Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.      | Média       | 2          | In Progress       |
-| US-13 |  Como cliente, eu quero um relatório que compare o tempo médio de entre por tipo de carga,para avaliar se determinados produtos impactam no prazo de transporte.       | Baixa       | 1          | In Progress       |
+| US-09  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | Done|
+| US-10 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Media       | 8          | Done      |
+| US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | Done      |
+| US-12 |  Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.      | Média       | 2          | Done      |
+| US-13 |  Como cliente, eu quero um relatório que compare o tempo médio de entre por tipo de carga,para avaliar se determinados produtos impactam no prazo de transporte.       | Baixa       | 1          | Done     |
 
 ## 📚 EPIC 04: Apresentação Final 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
@@ -110,18 +110,18 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 |--------|---------------|------------------------------------------|----------|
 | Sprint 01 | 14/03 - 04/04 | Backlog   | ✅ Fechada |
 | Sprint 02 | 05/04 - 09/05 | Entregar dashboard com dados reais      |✅ Fechada  |
-| Sprint 03 | 10/05 - 23/05 | Integração com relatórios |🔄 Em andamento  |
-| Sprint 04 | 24/05 - 17/06 | Feira de soluções | ⏳ Planejada |
+| Sprint 03 | 10/05 - 29/05 | Integração com relatórios |🔄 Em andamento  |
+| Sprint 04 | 30/05 - 17/06 | Feira de soluções | ⏳ Planejada |
 
 ---
 
 ## 🚦 Quadro Kanban
 | Status          | Tarefas                                                       |
 |-----------------|---------------------------------------------------------------|
-| **Backlog**     | US-15, US-16, US-17, US-18                                    |
-| **In Progress** | US-07, US-08, US-09, US-10, US-11, US-12, US-13                                                         |
-| **Review**      | US-14                                                         |
-| **Done**        | US-01, US-02, US-03, US-04, US-05, US-06                                                  |
+| **Backlog**     |                                     |
+| **In Progress** |                                                          |
+| **Review**      | US-14, US-15, US-16, US-17, US-18                                                 |
+| **Done**        | US-01, US-02, US-03, US-04, US-05, US-06, US-07, US-08, US-09, US-10, US-11, US-12, US-13                                             |
 
 ---
 
