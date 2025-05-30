@@ -19,7 +19,15 @@ Vizualizar os custos, produtividade sobre rota, estatística da ocupação dos v
 |  Team Member  | Reinaldo Mariano     |  ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)       |
 |  Team Member  | Mayla de Paula    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mayladepaula) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 |  Team Member  | Mariana Diniz   |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/biancastrevisan](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)) ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
- 
+
+
+---
+## Arquivos do Projeto
+| Arquivo         | Botão                                                       |
+|-----------------|---------------------------------------------------------------|
+| **Relatorio**     |  [![Word](https://img.shields.io/badge/-Download%20Word-2B579A?logo=microsoftword&logoColor=white)](./documentos/documento.docx)   |
+| **Codigos** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/notebook.ipynb)                        |
+| **Resultado**      |   [![Power BI](https://img.shields.io/badge/-Download%20Power%20BI-F2C811?logo=powerbi&logoColor=black)](./powerbi/relatorio.pbix)                                           |
 
 ---
 
