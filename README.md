@@ -52,8 +52,6 @@ para entender padrões de eficiência em diferentes áreas.
   - [US-10] Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.
   - [US-11] Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.
   - [US-12] Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.
-  - [US-13] Como cliente, eu quero um relatório que compare o tempo médio de entre por tipo de carga,
-para avaliar se determinados produtos impactam no prazo de transporte. 
 - **[EPIC 04]**: APRESENTAÇÃO FINAL 
   - [US-14] Como cliente quero visualizar em um dashboard os custos, a produtividade das rotas e as estatísticas de ocupação dos veículos para que eu possa tomar decisões mais estratégicas e otimizar os custos.
   - [US-15] Como cliente, quero receber um relatório final detalhado sobre o projeto, descrevendo todas as atividades realizadas e resultados  alcançados,  para que fique registrado para futuras consultas em futuros projetos.
@@ -99,7 +97,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | US-10 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Media       | 8          | Done      |
 | US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | Done      |
 | US-12 |  Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.      | Média       | 2          | Done      |
-| US-13 |  Como cliente, eu quero um relatório que compare o tempo médio de entre por tipo de carga,para avaliar se determinados produtos impactam no prazo de transporte.       | Baixa       | 1          | Done     |
+
 
 ## 📚 EPIC 04: Apresentação Final 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
@@ -129,7 +127,7 @@ para avaliar se determinados produtos impactam no prazo de transporte.
 | **Backlog**     |                                     |
 | **In Progress** |                                                          |
 | **Review**      | US-14, US-15, US-16, US-17, US-18                                                 |
-| **Done**        | US-01, US-02, US-03, US-04, US-05, US-06, US-07, US-08, US-09, US-10, US-11, US-12, US-13                                             |
+| **Done**        | US-01, US-02, US-03, US-04, US-05, US-06, US-07, US-08, US-09, US-10, US-11, US-12,                                           |
 
 ---
 
