@@ -98,8 +98,8 @@ para entender padrões de eficiência em diferentes áreas.
 | US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | Done      |
 | US-12 |  Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.      | Média       | 2          | Done      |
 
+/storage/emulated/0/Pictures/Screenshots/Screenshot_20250530-161950_1.png
 
-![image](https://drive.google.com/file/d/1OSeBjySUcly-qhedxnC6Av3EmujcKPyo/view?usp=drivesdk)
 
 ## 📚 EPIC 04: Apresentação Final 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
