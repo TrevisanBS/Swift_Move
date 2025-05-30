@@ -86,7 +86,10 @@ para entender padrões de eficiência em diferentes áreas.
 | US-06  |  Como cliente, quero visualizar a taxa média de ocupação dos veículos segmentada por região,para entender padrões de eficiência em diferentes áreas.  | Alta       | 4          | Done       |
 | US-07  |  Como cliente, quero uma funcionalidade que me permita identificar padrões sazonais na produtividade dos veículos, para planejar melhor a alocação de recursos ao longo do ano.  | Media       | 4          | Done     |
 
-![image](https://github.com/user-attachments/assets/1575f3c5-5778-4728-b2f4-11018c08b13a)
+![6e13dc88-0533-4eaf-95a8-c946e978c749](https://github.com/user-attachments/assets/bd2718a0-870f-4548-8c72-58f24d9fe205)
+
+https://github.com/user-attachments/assets/f1522b1a-a22d-4d59-911f-5acd56ba04be
+
 
 
 ## 📚 EPIC 03: ALINHAMENTO 
@@ -98,7 +101,10 @@ para entender padrões de eficiência em diferentes áreas.
 | US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | Done      |
 | US-12 |  Como cliente, quero um painel que mostre a evolução do custo médio por unidade transportada ao longo do tempo,para avaliar a eficiência das estratégias de otimização adotadas.      | Média       | 2          | Done      |
 
-/storage/emulated/0/Pictures/Screenshots/Screenshot_20250530-161950_1.png
+![53b891cb-d528-411a-b1c4-704257830551](https://github.com/user-attachments/assets/0ed7cba4-4c19-44d8-bfe3-0348952fedc7)
+
+https://github.com/user-attachments/assets/e9f6fbeb-7d51-4d6d-bf81-eef18d17cf0b
+
 
 
 ## 📚 EPIC 04: Apresentação Final 
