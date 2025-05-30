@@ -27,7 +27,7 @@ Vizualizar os custos, produtividade sobre rota, estatística da ocupação dos v
 |-----------------|---------------------------------------------------------------|
 | **Relatorio**     |  [![Word](https://img.shields.io/badge/-Download%20Word-2B579A?logo=microsoftword&logoColor=white)](./documentos/documento.docx)   |
 | **Codigos** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/notebook.ipynb)                        |
-| **Resultado**      |   [![Power BI](https://img.shields.io/badge/-Download%20Power%20BI-F2C811?logo=powerbi&logoColor=black)](./powerbi/relatorio.pbix)                                           |
+| **Resultado**      |   [![Power BI](https://img.shields.io/badge/-Download%20Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/links/ukTDVE91ay?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)                                           |
 
 ---
 
