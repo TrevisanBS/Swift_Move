@@ -124,8 +124,8 @@ https://github.com/user-attachments/assets/e9f6fbeb-7d51-4d6d-bf81-eef18d17cf0b
 |--------|---------------|------------------------------------------|----------|
 | Sprint 01 | 14/03 - 04/04 | Backlog   | ✅ Fechada |
 | Sprint 02 | 05/04 - 09/05 | Entregar dashboard com dados reais      |✅ Fechada  |
-| Sprint 03 | 10/05 - 29/05 | Integração com relatórios |🔄 Em andamento  |
-| Sprint 04 | 30/05 - 17/06 | Feira de soluções | ⏳ Planejada |
+| Sprint 03 | 10/05 - 29/05 | Integração com relatórios |✅ Fechada  |
+| Sprint 04 | 30/05 - 17/06 | Feira de soluções | 🔄 Em andamento |
 
 ---
 
