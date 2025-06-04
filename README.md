@@ -95,7 +95,7 @@ https://github.com/user-attachments/assets/f1522b1a-a22d-4d59-911f-5acd56ba04be
 ## 📚 EPIC 03: ALINHAMENTO 
 | ID     | User Story                                                | Prioridade | Story Points | Status     |
 |--------|------------------------------------------------------------|------------|--------------|------------|
-| US-08 |    Como cliente quero que identifiquem os erros nas planilhas de dados do frete FOB, destacando a fábrica que realizou o pagamento para que eu possa visualizar o prejuízo gerado e tomar medidas corretivas.  | Média     | 7          | In Progress     |
+| US-08 | Como cliente quero que identifiquem os erros nas planilhas de dados do frete FOB, destacando a fábrica que realizou o pagamento para que eu possa visualizar o prejuízo gerado e tomar medidas corretivas.  | Média     | 7          | Done    |
 | US-09  | Como cliente quero que o sistema de visualização permita aplicar filtros dinâmicos, para que eu possa personalizar as análises conforme minha necessidade.     | Média      | 7            | Done|
 | US-10 |  Como cliente quero uma funcionalidade que destaque automaticamente as top 5 rotas com maior prejuízo, para focar a atuação corretiva.      | Media       | 8          | Done      |
 | US-11 |  Como cliente, quero um recurso que me permita visualizar a demanda por cliente em diferentes períodos do ano,para antecipar necessidade de frota e logística.     | Baixa      | 5          | Done      |
